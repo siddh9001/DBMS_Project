@@ -32,4 +32,5 @@ ADMIN ALL NOTICE
 
 
 USER ALL UPDATES NOTICES NOTICES
-<img width="960" alt="userAllNotices" src="https://user-images.githubusercontent.com/86849427/165893721-4f5d05f6-1748-442d-b191-b5c702a31b89.png">
+<img width="960" alt="userViewUpdatedNotice" src="https://user-images.githubusercontent.com/86849427/165894550-f16f68eb-1a89-4d8b-a6a9-7e1e1511d307.png">
+
